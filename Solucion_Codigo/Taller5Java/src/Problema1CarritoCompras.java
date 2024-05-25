@@ -1,9 +1,5 @@
-
 import java.util.ArrayList;
-/**
- *
- * @author Carlos Sánchez
- */
+
 public class Problema1CarritoCompras {
     ArrayList<Problema1Producto> productos = new ArrayList<>();
     double descuentoPorcentaje = 0.10;
